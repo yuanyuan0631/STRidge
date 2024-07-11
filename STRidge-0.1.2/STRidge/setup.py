@@ -12,7 +12,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/yuanyuan0631/STRidge.git',  # 项目的URL
-    author='Yuan yuan',
+    author='Yuanyuan0631',
     author_email='yuanyuan0631@gmail.com',
     classifiers=[
         'Programming Language :: Python :: 3',
