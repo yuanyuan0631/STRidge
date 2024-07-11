@@ -11,7 +11,7 @@ setup(
     description='A method to determine the unknown terms of partial differential equations',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/stridge_project',  # 项目的URL
+    url='https://github.com/yuanyuan0631/STRidge.git',  # 项目的URL
     author='Yuan yuan',
     author_email='yuanyuan0631@gmail.com',
     classifiers=[
