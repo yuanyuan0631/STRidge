@@ -1,4 +1,3 @@
-# 利用 STRidge 实现偏微分方程未知项的估计
 import numpy as np
 import sys
 
